@@ -1,6 +1,6 @@
 # SparkSnack Social App
 
-- **Developer**: Prelude  
+- **Developer**: Prelude  Thabethe 
 - **Student Number**: ST10098853  
 - **Group**: Group 1  
 - **Course**: Higher Certificate in Mobile Application and Web Development  
@@ -147,7 +147,7 @@ Future improvements for the SparkSnack app could include:
 
 # References
 
-1. Android Developer Documentation Available at:(https://developer.android.com)(Accessed:[20 March 2026])
+1. Android Developer Documentation Available at:(Introduction to Mobile Application Development IMAD5112 2026 FT HMAW0501 EMGPSD Term1 GR01, IMAD5112_2026_FT_HMAW0501_EMGPSD_Term1_GR01, Ends March 31, 2027 at 12:00 AM)(Accessed:[20 March 2026])
 2. Kotlin Programming Documentation  Available at:(https://kotlinlang.org/docs)(Accessed:[20 March 2026]) 
 3. Pinterest.(2020,April 17).Inspiring photoshot[Pinterest post].Available at:(https://i.pinimg.com/736x/ef/c3/01/efc30182e64ffd6628555956b158e40c.jpg)([Accessed 25 March 2026])
    
