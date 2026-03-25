@@ -149,7 +149,8 @@ Future improvements for the SparkSnack app could include:
 
 1. Android Developer Documentation Available at:(https://developer.android.com)(Accessed:[20 March 2026])
 2. Kotlin Programming Documentation  Available at:(https://kotlinlang.org/docs)(Accessed:[20 March 2026]) 
-3. Pinterest.(2020,April 17).Inspiring photoshot[Pinterest post].Available at:()([Accessed 25 March 2026])
+3. Pinterest.(2020,April 17).Inspiring photoshot[Pinterest post].Available at:(https://i.pinimg.com/736x/ef/c3/01/efc30182e64ffd6628555956b158e40c.jpg)([Accessed 25 March 2026])
+   
 ---
 
 # List of Figures
