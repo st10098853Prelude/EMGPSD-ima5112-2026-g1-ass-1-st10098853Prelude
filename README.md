@@ -57,7 +57,7 @@ These features aim to provide a quick and engaging way for users to stay sociall
 The design of the **SparkSnack Social App** was based on the following considerations:
 
 ### 1. User Experience (UX)
-The app was designed to be simple and intuitive so users can easily enter a time of day and receive a suggestion without confusion.
+The app was designed to be simple and intuitive so users can easily enter a time of day and receive a suggestion without confusion.With an nice and aesthetic image explaining how the app.
 
 ### 2. Responsiveness
 The layout was designed using XML to ensure the app displays correctly on Android devices with different screen sizes.
@@ -92,11 +92,16 @@ This automation ensures that the app can be built successfully every time change
 
 ## App Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](<img width="1080" height="1920" alt="Screenshot_2026 03 24_13 00 39 922" src="https://github.com/user-attachments/assets/29ff1fb8-6d7d-4a14-828c-b14ab4229110" />
+)
 *Home screen where the user enters the time of day.*
 
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](<img width="1080" height="1920" alt="Screenshot_2026 03 24_13 01 01 636" src="https://github.com/user-attachments/assets/8751bf71-636c-4fd4-968a-6e82b5757ce4" />
+)
 *Example of the social suggestion displayed to the user.*
+![Screenshot 3] (<img width="1080" height="1920" alt="Screenshot_2026 03 24_13 01 16 869" src="https://github.com/user-attachments/assets/864b9d73-a10f-438f-8fa8-24c87f7457db" />
+)
+* Example of the social suggestion displayed when the user enters unrecognized time of day.*
 
 ## Video Demo
 A demonstration of the app can be viewed here:  
@@ -142,16 +147,16 @@ Future improvements for the SparkSnack app could include:
 
 # References
 
-1. Android Developer Documentation – https://developer.android.com  
-2. Kotlin Programming Documentation – https://kotlinlang.org/docs  
-3. GitHub Documentation – https://docs.github.com  
-
+1. Android Developer Documentation Available at:(https://developer.android.com)(Accessed:[20 March 2026])
+2. Kotlin Programming Documentation  Available at:(https://kotlinlang.org/docs)(Accessed:[20 March 2026]) 
+3. Pinterest.(2020,April 17).Inspiring photoshot[Pinterest post].Available at:()([Accessed 25 March 2026])
 ---
 
 # List of Figures
 
 - **Figure 1**: Home screen of the SparkSnack app.
 - **Figure 2**: Social suggestion displayed after user input.
+  
 
 ---
 
@@ -173,5 +178,4 @@ AI tools were used to assist with:
 ## Date of AI Usage
 
 March 2026 during the development of the project.
-
-
+--
